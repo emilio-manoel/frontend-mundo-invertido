@@ -46,3 +46,15 @@
   --background-lamp-image: url("../images/backgrounds/lamps-inverted.png");
   --footer-background-color: #000;
 }
+
+.dark-theme button,
+.dark-theme h1,
+.dark-theme h2,
+.dark-theme h3 {
+  letter-spacing: 5px;
+  font-weight: normal;
+}
+
+.dark-theme .invert-element {
+  transform: rotate(180deg) scaleX(-1);
+}
