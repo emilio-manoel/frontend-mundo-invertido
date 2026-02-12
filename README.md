@@ -5,9 +5,25 @@
 -------
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
-## ▶️ Semana Front-end
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
+---
+
+## 📌 Sobre o Projeto – Mundo Invertido
+
+**Mundo Invertido** é uma página web inspirada na temática da série *Stranger Things*, criada como parte de um desafio de front-end para praticar HTML, CSS e JavaScript.
+
+O site apresenta uma introdução envolvente sobre o “mundo invertido” — uma versão sombria e perigosa da realidade — e convida o visitante a explorar esse universo fictício.
+
+Além de textos e imagens, há uma chamada à ação para entrar nessa jornada e até uma seção com um formulário de inscrição temático, simulando um clube de aventura.
+
+Este projeto foi construído com o objetivo de consolidar conhecimentos em **HTML para estruturar o conteúdo**, **CSS para o visual e layout**, e **JavaScript para possíveis interações**, servindo como exercício prático de desenvolvimento front-end.
+
+---
+
+Se quiser, posso **formatar esse texto em um README.md completo** com badges, seções e estilo pronto para o GitHub 👍
+
+[1]: https://emilio-manoel.github.io/frontend-mundo-invertido/ "Mundo Invertido | DIO Front-end"
+
+
 ## 💻 Tecnologias
 - HTML
 - CSS
@@ -78,20 +94,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
   --footer-background-color: #000;
 }
 ```
-## 🔗 Links auxiliares
 
-- [W3C - World Wide Web Consortium](http://w3c.org)
-- [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
-- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
-- [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
-## 🌎 Nossas redes sociais
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
-    <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/diogomainardes">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/diogomainardes/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/dimmbr">Twitch</a></p>
-</p>
-<br/><br/>
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
     <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
